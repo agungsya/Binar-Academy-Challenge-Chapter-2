@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge Shoppe</string>
+    <string name="pulsa_tagihan_hiburan"><![CDATA[Pulsa, Tagihan & Hiburan]]></string>
+    <string name="gratis_ongkir_voucher"><![CDATA[Gratis Ongkir & Voucher]]></string>
+</resources>
