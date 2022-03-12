@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge Chapter 2</string>
+    <string name="klik_cek_riwayat"><![CDATA[Klik & cek riwayat]]></string>
+    <string name="beranda">Beranda</string>
+    <string name="promo">Promo</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="chat">Chat</string>
+    <string name="gopay">gopay</string>
+</resources>
